@@ -1,0 +1,3 @@
+[submodule "esp_idf_project"]
+	path = esp_idf_project
+	url = git@github.com:Ximenzhengmo/ESP32-chatbot.git
