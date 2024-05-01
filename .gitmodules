@@ -1,3 +1,9 @@
 [submodule "esp_idf_project"]
 	path = esp_idf_project
 	url = git@github.com:Ximenzhengmo/ESP32-chatbot.git
+[submodule "kicad-project"]
+	path = kicad-project
+	url = https://github.com/laZZbard/Creative-and-Innovative-Contest.git
+[submodule "rhino-project"]
+	path = rhino-project
+	url = https://github.com/xmzzfl/Zhichuan_Model.git
