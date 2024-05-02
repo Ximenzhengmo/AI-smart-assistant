@@ -7,6 +7,6 @@
 [submodule "rhino-project"]
 	path = rhino-project
 	url = https://github.com/xmzzfl/Zhichuan_Model.git
-[submodule "android-stduio-project"]
-	path = android-stduio-project
+[submodule "android-studio-project"]
+	path = android-studio-project
 	url = https://github.com/Foolish-Han/Owl-Communication
